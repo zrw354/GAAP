@@ -1,0 +1,23 @@
+{
+  "_ACRONYM_": ["_DESCRIPTION_", "_NOTE_"],
+  "arr": ["array", "IntArr"],
+  "attr": ["attribute(s)", "staticAttr"],
+  "cnt": ["count(er)", "cntWords"],
+  "cur": ["current", "curVal"],
+  "curr": ["current", "currVal"],
+  "desc": ["description", "valDesc"],
+  "descr": ["description", "valDescr"],
+  "doc": ["document", "docHdr"],
+  "el": ["element", "funcion (el) { }"],
+  "hdr": ["header", "docHdr"],
+  "i": ["integer", "i++"],
+  "j": ["", "j--"],
+  "obj": ["object", "myObj"],
+  "pre": ["previous", "preVal"],
+  "prev": ["previous", "prevVal"],
+  "prop": ["property", "objProp"],
+  "req": ["request", "clientReq"],
+  "val": ["value", "currVal"],
+  "var": ["variable", "A reserved keyword"],
+  "xhr": ["XMLHttpRequest", ""]
+}
